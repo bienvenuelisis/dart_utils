@@ -1,0 +1,14 @@
+name: dart_utils
+description: "Collection of Dart enhancement utils (extension, functions, ...)"
+version: 0.0.1
+
+environment:
+  sdk: '>=3.2.5 <4.0.0'
+
+dependencies:
+  austerity: ^1.1.0
+  clock: ^1.1.1
+  collection: ^1.18.0
+
+dev_dependencies:
+  test: any
